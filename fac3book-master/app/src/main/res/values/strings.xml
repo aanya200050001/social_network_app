@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fac3book</string>
+    <string name="UserName">Username</string>
+    <string name="Password">Password</string>
+</resources>
